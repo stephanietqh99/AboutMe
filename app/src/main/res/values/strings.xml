@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        \n
+        Address:123,jalan bunga, selangor\n\t\n
+        Name:HAHA\n\t\n
+        Age:90\n\t\n
+        Education:TAR UC\n\t\n
+        Working Experiences:Dreaming\n\t\n
+        Height:70\n\t\n
+        Weight:90\n\t\n
+        Name:HAHA\n\t\n
+        Age:90\n\t\n
+        Education:TAR UC\n\t\n
+        Working Experiences:Dreaming\n\t\n
+        Height:70\n\t\n
+        Weight:90\n\t\n
+
+    </string>
+</resources>
